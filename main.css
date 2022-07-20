@@ -30,9 +30,6 @@ h2{
     font-size: 20px;
 }
 
-
- 
-
 .quotes{
     background-color: #7F6991;
     color: white;
@@ -47,7 +44,6 @@ h2{
 .project-intro{
     background-color: white;
     margin:0;
-    padding: 0px;
 }
 
 
@@ -57,7 +53,8 @@ h2{
    display: inline-block;
    text-decoration: none;
    color:black;
-   background-color: white;
+   background-color:#D6CAC4 ;
+   background-color: D6CAC4;
    letter-spacing: .5px;
 }
 
