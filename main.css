@@ -1,3 +1,14 @@
-h1{
-    background-color: black;
+body{
+    background-color: rgb(235, 232, 237);
+    color: #223C5B;
+}
+
+
+.quotes{
+    background-color: #7F6991;
+    color: white;
+    margin:0 auto;
+    padding: 20px;
+    font-size: 30px;
+    letter-spacing: 1.5px;
 }
