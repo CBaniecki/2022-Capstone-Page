@@ -1,25 +1,47 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
 body{
     background-color: rgb(235, 232, 237);
     color: #223C5B;
 }
 
+
 .intro{
-      text-align: center;
-      line-height: 30px;
+      text-align: left;
+      line-height: 50px;
+      padding-top: 50px;
+      padding-left: 800px;
+      padding-bottom: 500px;
+      color:white;
+      line-height: 55px;
+      letter-spacing: 1px;
 }
 
-h1{
+.background-image{
+    background-image: url(images/app-banner-idea-1.jpg);
+    background-size: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.intro h1{
     font-size: 50px;
+    padding-bottom: 20px;
 }
 
 h2{
    font-size: 30px;
-   padding-left:20px;
    padding-right: 20px;
 }
 
 .headline{
     font-size: 40px;
+    padding-bottom: 20px;
 }
 
 .statement{
@@ -34,13 +56,17 @@ h2{
     background-color: #7F6991;
     color: white;
     margin:0 auto;
-    padding: 20px;
+    padding: 50px;
     font-size: 18px;
     letter-spacing: 1.5px;
     font-family: sans-serif;
     line-height: 30px;
 }
 
+.quotes p{
+    padding-bottom: 40px;
+
+}
 .project-intro{
     background-color: white;
     margin:0;
@@ -81,9 +107,19 @@ h2{
     padding-left:50px;
     padding-bottom:50px;
     padding-top:50px;
-    background-color:#365675;
+    background-color:#223C5B;
     color: white;
+    letter-spacing: 1px;
 
+}
+
+.final-thoughts p{
+    line-height: 30px;
+    letter-spacing: 1px;
+}
+
+.sensability-website p{
+    padding-bottom: 20px;
 }
 
 img{
