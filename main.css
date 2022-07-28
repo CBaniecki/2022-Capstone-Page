@@ -17,13 +17,14 @@ body{
       padding-top: 50px;
       padding-left: 800px;
       padding-bottom: 500px;
+      background-color:rgba(34, 60, 90, 0.749);
       color:white;
       line-height: 55px;
       letter-spacing: 1px;
 }
 
 .background-image{
-    background-image: url(images/app-banner-idea-1.jpg);
+    background-image: url(images/sensability-mockup.png);
     background-size: 100%;
     width: 100%;
     background-repeat: no-repeat;
