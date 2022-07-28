@@ -154,7 +154,16 @@ img{
     color: white;
 }
 
+.process h3{
+    padding-left: 60px;
+    font-size: 25px;
+}
+
 .image-gallery img {
     padding: 10px;
-    max-width: 50%;
+    max-width: 40%;
+}
+
+.image-gallery #three img{
+    max-width: 30%;
 }
