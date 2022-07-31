@@ -53,8 +53,6 @@ p{
     letter-spacing: 4px;
 }
 
-
-
 .process h2{
     font-family: 'Assistant', sans-serif;
     font-weight: 700;
@@ -118,19 +116,20 @@ h2{
 }
 .project-intro{
     background-color: white;
-
+    padding: 40px;
 }
 
-.project-intro h2{
+.post-content h2{
     font-size: 50px;
-    padding-bottom: 35px;
-    padding-top: 50px;
-    padding-left: 30px;
+    padding: 5px 70px 35px 70px;
     font-family: 'Assistant', sans-serif;
     font-weight: 700;
 }
 
 
+.project-intro .post-content p{
+    padding-left: 70px;
+}
 
 
 .button{
@@ -205,3 +204,4 @@ img{
 .image-gallery #three img{
     max-width: 30%;
 }
+
