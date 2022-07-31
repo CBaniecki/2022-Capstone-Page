@@ -53,10 +53,7 @@ p{
     letter-spacing: 4px;
 }
 
-.project-intro h2{
-    font-family: 'Assistant', sans-serif;
-    font-weight: 700;
-}
+
 
 .process h2{
     font-family: 'Assistant', sans-serif;
@@ -121,8 +118,7 @@ h2{
 }
 .project-intro{
     background-color: white;
-    column-count: 2;
-    padding: 20px;
+
 }
 
 .project-intro h2{
@@ -130,6 +126,8 @@ h2{
     padding-bottom: 35px;
     padding-top: 50px;
     padding-left: 30px;
+    font-family: 'Assistant', sans-serif;
+    font-weight: 700;
 }
 
 
@@ -153,11 +151,8 @@ h2{
 }
 
 .post p{
-    padding-left: 30px;
-    padding-right: 30px;
-    padding-top: 30px;
-
-    padding-bottom: 20px;
+   
+    padding: 30px 30px 1px 30px;
     font-size: 18px;
     letter-spacing: 1px;
     font-weight: 500;
