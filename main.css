@@ -151,7 +151,7 @@ h2{
 
 .post p{
    
-    padding: 30px 30px 1px 30px;
+    padding: 30px 30px 5px 30px;
     font-size: 18px;
     letter-spacing: 1px;
     font-weight: 500;
@@ -190,14 +190,14 @@ img{
 }
 
 .process h3{
-    padding-left: 60px;
+    padding-left: 78px;
     font-family: 'Assistant', sans-serif;
     font-weight: 700;
     font-size: 25px;
 }
 
 .image-gallery img {
-    padding: 10px;
+    padding-left: 30px;
     max-width: 40%;
 }
 
