@@ -20,16 +20,16 @@ p{
       line-height: 50px;
       padding-top: 50px;
       padding-left: 800px;
-      padding-bottom: 120px;
-      background-color:rgba(34, 60, 90, 0.749);
+      padding-bottom: 200px;
       color:white;
       line-height: 55px;
       letter-spacing: 1px;
 }
 
 .background-image{
-    background-image: url(images/sensability-mockup.png);
+    background-image: url(images/Capstone-thumbnail-website-edited.3.png);
     background-size: 100%;
+    height: -2%;
     width: 100%;
     background-repeat: no-repeat;
 }
@@ -46,7 +46,7 @@ p{
 .intro h1{
     font-size: 55px;
     padding-bottom: 20px;
-    padding-top: 50px;
+    padding-top: 40px;
     font-family: 'Assistant', sans-serif;
     font-weight: 800;
     letter-spacing: 4px;
@@ -94,6 +94,10 @@ h2{
 
 .statement p{
     letter-spacing: .5px;
+}
+
+.statement .subtext{
+    padding-bottom: 30px;
 }
 
 .statistic{
@@ -235,3 +239,6 @@ img{
     max-width: 30%;
 }
 
+.accessible-experience{
+    padding: 40px;
+}
