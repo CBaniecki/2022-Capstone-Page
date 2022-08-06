@@ -180,7 +180,6 @@ h2{
 .post{
     display: flex;
     padding: 3rem;
-
 }
 
 .post p{
@@ -240,5 +239,15 @@ img{
 }
 
 .accessible-experience{
-    padding: 40px;
+    padding-left: 50px;
+    padding-bottom: 60px;
+
 }
+
+.accessible-experience .post .post-image {
+    max-width: 50%;
+}
+.accessible-experience .post-content p{
+    padding-left: 75px;
+}
+
