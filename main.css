@@ -208,13 +208,17 @@ h2{
     letter-spacing: 1px;
 }
 
+h4{
+    font-family: 'Assistant', sans-serif;
+    padding-bottom: 20px;
+    padding-top: 25px;
+}
+
 .final-thoughts p{
     line-height: 30px;
     letter-spacing: 1px;
-}
-
-.sensability-website p{
     padding-bottom: 20px;
+    padding-top: 40px;
 }
 
 img{
