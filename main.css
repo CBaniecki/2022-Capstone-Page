@@ -190,6 +190,14 @@ h2{
     font-weight: 500;
 }
 
+#motion-prototype{
+    padding: 10px 40px;
+}
+
+#prototype-content{
+    padding-top: 85px;
+}
+
 .sensability-website{
     font-size:20px;
     padding-left:50px;
